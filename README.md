@@ -8,22 +8,7 @@ FIFO RTL using the `bind` construct, enabling non-intrusive verification without
 modifying the original RTL.
 
 ## Repository Structure
-
-FIFO-formal-verification/
-│
-├── fifo_rtl.v
-├── fifo_assertions.v
-├── fifo.tcl
-├── README.md
-│
-└── docs
-    └── images
-        ├── assertion_failure_due_to_bug.png
-        ├── assertion_passed.png
-        ├── bug_injected.png
-        ├── coverage_after_fix.png
-        ├── coverage_before_fix.png
-        └── finding_error_line_no_using_Formal_verification.png
+<img width="495" height="326" alt="image" src="https://github.com/user-attachments/assets/ae9e1f1f-e31d-42e2-914e-eaaaff31cccc" />
         
 ## Assertions Verified
 
